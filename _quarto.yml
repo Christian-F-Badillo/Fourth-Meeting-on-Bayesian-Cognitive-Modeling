@@ -1,0 +1,49 @@
+project:
+
+  type: website
+  output-dir: docs
+  
+  preview: 
+    browser: true
+    host: 127.0.0.1
+
+
+website:
+  title: "Fourth Meeting on Bayesian Cognitive Modeling"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Meet the Labs
+  
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Fourth Meeting on Bayesian Cognitive Modeling"
+    right: "Copyright 2024, Lab 25"
+    background: primary
+    foreground: "white"
+    border: true
+
+format:
+  html:
+
+    theme: 
+      light: cerulean
+      dark: darkly
+
+    fontsize: 13.5pt
+    linestretch: 1.25
+    max-width: 2000px
+    margin-left: 1%
+    margin-right: 1%
+    margin-bottom: 1%
+    margin-top: 1%
+    css: styles.css
+    toc: true
+
+    smooth-scroll: true
+
+
+
+

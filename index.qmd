@@ -1,0 +1,79 @@
+---
+title: "Fourth Meeting on Bayesian Cognitive Modeling"
+toc: false
+---
+
+<div>
+<p>
+**Dr. Michael Lee's Laboratory** and **Lab 25**, led by Dr. Arturo Bouzas, cordially invite you to join us for the ***fourth meeting on Bayesian Cognitive Modeling***. 
+
+</p>
+</div>
+
+
+## Meeting Program  
+
+### Monday, March 25th
+
+***Using cognitive models to understand how semantic memory changes with impairment.***
+
+Michael Lee.
+
+***Improving wisdom of the crowd aggregations of spatial knowledge.***
+
+Lauren Montgomery.
+
+***Exploring Anxiety: A Computational Approach with Reinforcement Learning.***
+
+Alicia Muñiz Jiménez.
+
+### Tuesday, March 26th
+
+***Graphical Models for Causal Inference.***
+
+Alexander Etz.
+
+***Learning and intertemporal choice of volatile rewards.***
+
+Israel Varona García.
+
+### Wednesday, March 27th
+
+***An EZ Bayesian Hierarchical Drift Diffusion Model for Response Time and Accuracy.***
+
+Adriana Felisa Chávez de la Peña.
+
+***Optimal navigational behavior based on environmental and agent based restrictions.***
+
+Miguel Aaron Torres Adame.
+
+### Thursday, March 28th
+
+***Modeling the Dynamics of Categorization.***
+
+Manuel Villarreal.
+
+### Friday, March 29th
+
+***Discussion on collaboration opportunities: Identifying potential joint projects and establishing next steps for collaboration. Planning for future interactions and exchange of resources to foster ongoing collaboration.***
+
+Arturo Bouzas & Michael Lee.
+
+## Meeting Location
+
+<div>
+<p>
+The event will take place from March 25th to 29th at the Faculty of Psychology, National Autonomous University of Mexico.  
+</p>
+</div>
+
+<div>
+<p>Circuito Ciudad Universitaria Avenida, <br>
+C.U., 04510 Ciudad de México.<p>
+</div>
+
+<div style="text-decoration:none; overflow:hidden;max-width:100%;width:700px;height:350px;"><div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Facultad+de+Psicología+UNAM,+Ciudad+Universitaria,+Ciudad+de+México,+CDMX,+México&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="googlecoder" href="https://www.bootstrapskins.com/themes" id="enable-map-info">premium bootstrap themes</a><style>#canvas-for-googlemap img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
+
+<div>
+<br> </br>
+</div>
