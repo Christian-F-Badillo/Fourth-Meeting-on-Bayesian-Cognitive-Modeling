@@ -17,51 +17,51 @@ toc: false
 
 ***Using cognitive models to understand how semantic memory changes with impairment.***
 
-Michael Lee.
+Michael Lee, UC Irvine.
 
 ***Improving wisdom of the crowd aggregations of spatial knowledge.***
 
-Lauren Montgomery.
+Lauren Montgomery, UC Irvine.
 
 ***Exploring Anxiety: A Computational Approach with Reinforcement Learning.***
 
-Alicia Muñiz Jiménez.
+Alicia Muñiz Jiménez, UNAM.
 
 ### Tuesday, March 26th
 
 ***Graphical Models for Causal Inference.***
 
-Alexander Etz.
+Alexander Etz, UC Irvine.
 
 ***Learning and intertemporal choice of volatile rewards.***
 
-Israel Varona García.
+Israel Varona García, UNAM.
 
 ### Wednesday, March 27th
 
 ***An EZ Bayesian Hierarchical Drift Diffusion Model for Response Time and Accuracy.***
 
-Adriana Felisa Chávez de la Peña.
+Adriana Felisa Chávez de la Peña, UC Irvine.
 
 ***Optimal navigational behavior based on environmental and agent based restrictions.***
 
-Miguel Aaron Torres Adame.
+Miguel Aaron Torres Adame, UNAM.
 
 ### Thursday, March 28th
 
 ***Modeling the Dynamics of Categorization.***
 
-Manuel Villarreal.
+Manuel Villarreal, UC Irvine.
 
 ***Learning causal structures via reinforcement learning.***
 
-Christian Badillo.
+Christian Badillo, UNAM.
 
 ### Friday, March 29th
 
 ***Discussion on collaboration opportunities: Identifying potential joint projects and establishing next steps for collaboration. Planning for future interactions and exchange of resources to foster ongoing collaboration.***
 
-Arturo Bouzas & Michael Lee.
+Arturo Bouzas, UNAM & Michael Lee, UC Irvine.
 
 ## Meeting Location
 

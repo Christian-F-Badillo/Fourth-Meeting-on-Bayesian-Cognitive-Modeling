@@ -2,7 +2,7 @@
 title: "Meet the Labs"
 ---
 
-## Lab 25: Learning and Adaptative Behavior.
+## Lab 25: Learning and Adaptative Behavior at the UNAM.
 
 ![Lab 25](img/thumbnail_Lab%2025.jpg)
 
@@ -13,7 +13,7 @@ title: "Meet the Labs"
 
 <p3> <i> Cognitive Bayesian Modeling, Game Theory, Planning, Causality, Computational Psychiatry, Adaptative Behavior, Reinforcement Learning, and Intertemporal Choice </i> </p3> </left>
 
-## Michael Lee's Lab
+## Michael Lee's Lab at the UC Irvine.
 
 ![Michael Lee's Lab](img/Michael_lab.jpg)
 
