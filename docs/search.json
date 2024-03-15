@@ -2,9 +2,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Meet the Labs",
     "section": "",
-    "text": "About this site\n\n\n\n Back to top"
+    "text": "Lab 25\n\n\n  The Laboratory 25, also known as Lab25, is located within the facilities of the Faculty of Psychology at the National Autonomous University of Mexico. Our research focus lies in the analysis of adaptable behavior, the learning process, and decision-making. Our primary objective is to contribute to a deeper understanding of the behavior of both human and non-human agents, viewing it as an adaptive response to the statistical structure of their environment. \n Research Topics:\n  Cognitive Bayesian Modeling, Game Theory, Planning, Causality, Computational Psychiatry, Adaptative Behavior, Reinforcement Learning, and Intertemporal Choice"
+  },
+  {
+    "objectID": "about.html#lab-25-learning-and-adaptative-behavior.",
+    "href": "about.html#lab-25-learning-and-adaptative-behavior.",
+    "title": "Meet the Labs",
+    "section": "",
+    "text": "Lab 25\n\n\n  The Laboratory 25, also known as Lab25, is located within the facilities of the Faculty of Psychology at the National Autonomous University of Mexico. Our research focus lies in the analysis of adaptable behavior, the learning process, and decision-making. Our primary objective is to contribute to a deeper understanding of the behavior of both human and non-human agents, viewing it as an adaptive response to the statistical structure of their environment. \n Research Topics:\n  Cognitive Bayesian Modeling, Game Theory, Planning, Causality, Computational Psychiatry, Adaptative Behavior, Reinforcement Learning, and Intertemporal Choice"
+  },
+  {
+    "objectID": "about.html#michael-lees-lab",
+    "href": "about.html#michael-lees-lab",
+    "title": "Meet the Labs",
+    "section": "Michael Lee’s Lab",
+    "text": "Michael Lee’s Lab\n\n\n\nMichael Lee’s Lab\n\n\nTheir research encompasses the development, evaluation, and application of models of cognition, including representation, memory, learning, and decision-making, with particular attention to individual differences and collective cognition. They utilize naturally occurring behavioral data and adopt a solution-oriented approach to empirical science, deriving research questions from real-world problems. Their methodology involves probabilistic generative modeling and Bayesian computational analysis methods.\n Research Topics:\n  Modeling human decision making, Collective cognition and the wisdom of the crowd, Modeling memory with clinical applications, Bayesian statistical methods"
   },
   {
     "objectID": "index.html",
@@ -18,7 +32,7 @@
     "href": "index.html#meeting-program",
     "title": "Fourth Meeting on Bayesian Cognitive Modeling",
     "section": "Meeting Program",
-    "text": "Meeting Program\n\nMonday, March 25th\nUsing cognitive models to understand how semantic memory changes with impairment.\nMichael Lee.\nImproving wisdom of the crowd aggregations of spatial knowledge.\nLauren Montgomery.\nExploring Anxiety: A Computational Approach with Reinforcement Learning.\nAlicia Muñiz Jiménez.\n\n\nTuesday, March 26th\nGraphical Models for Causal Inference.\nAlexander Etz.\nLearning and intertemporal choice of volatile rewards.\nIsrael Varona García.\n\n\nWednesday, March 27th\nAn EZ Bayesian Hierarchical Drift Diffusion Model for Response Time and Accuracy.\nAdriana Felisa Chávez de la Peña.\nOptimal navigational behavior based on environmental and agent based restrictions.\nMiguel Aaron Torres Adame.\n\n\nThursday, March 28th\nModeling the Dynamics of Categorization.\nManuel Villarreal.\n\n\nFriday, March 29th\nDiscussion on collaboration opportunities: Identifying potential joint projects and establishing next steps for collaboration. Planning for future interactions and exchange of resources to foster ongoing collaboration.\nArturo Bouzas & Michael Lee."
+    "text": "Meeting Program\n\nMonday, March 25th\nUsing cognitive models to understand how semantic memory changes with impairment.\nMichael Lee.\nImproving wisdom of the crowd aggregations of spatial knowledge.\nLauren Montgomery.\nExploring Anxiety: A Computational Approach with Reinforcement Learning.\nAlicia Muñiz Jiménez.\n\n\nTuesday, March 26th\nGraphical Models for Causal Inference.\nAlexander Etz.\nLearning and intertemporal choice of volatile rewards.\nIsrael Varona García.\n\n\nWednesday, March 27th\nAn EZ Bayesian Hierarchical Drift Diffusion Model for Response Time and Accuracy.\nAdriana Felisa Chávez de la Peña.\nOptimal navigational behavior based on environmental and agent based restrictions.\nMiguel Aaron Torres Adame.\n\n\nThursday, March 28th\nModeling the Dynamics of Categorization.\nManuel Villarreal.\nLearning causal structures via reinforcement learning.\nChristian Badillo.\n\n\nFriday, March 29th\nDiscussion on collaboration opportunities: Identifying potential joint projects and establishing next steps for collaboration. Planning for future interactions and exchange of resources to foster ongoing collaboration.\nArturo Bouzas & Michael Lee."
   },
   {
     "objectID": "index.html#meeting-location",

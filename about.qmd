@@ -1,5 +1,24 @@
 ---
-title: "About"
+title: "Meet the Labs"
 ---
 
-About this site
+## Lab 25: Learning and Adaptative Behavior.
+
+![Lab 25](img/thumbnail_Lab%2025.jpg)
+
+<left> <p1> The **Laboratory 25**, also known as ***Lab25***, is located within the facilities of the Faculty of Psychology at the National Autonomous University of Mexico. Our research focus lies in the analysis of adaptable behavior, the learning process, and decision-making. Our primary objective is to contribute to a deeper understanding of the behavior of both human and non-human agents, viewing it as an adaptive response to the statistical structure of their environment.</p1>
+</br>
+
+<p2><left><b> Research Topics:</p2></left></b>
+
+<p3> <i> Cognitive Bayesian Modeling, Game Theory, Planning, Causality, Computational Psychiatry, Adaptative Behavior, Reinforcement Learning, and Intertemporal Choice </i> </p3> </left>
+
+## Michael Lee's Lab
+
+![Michael Lee's Lab](img/Michael_lab.jpg)
+
+Their research encompasses the development, evaluation, and application of models of cognition, including representation, memory, learning, and decision-making, with particular attention to individual differences and collective cognition. They utilize naturally occurring behavioral data and adopt a solution-oriented approach to empirical science, deriving research questions from real-world problems. Their methodology involves probabilistic generative modeling and Bayesian computational analysis methods.
+
+<p2><left><b> Research Topics:</p2></left></b>
+
+<p3> <i>  Modeling human decision making, Collective cognition and the wisdom of the crowd, Modeling memory with clinical applications, Bayesian statistical methods </i> </p3> </left>

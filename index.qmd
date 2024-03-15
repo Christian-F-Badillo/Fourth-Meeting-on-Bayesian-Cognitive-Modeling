@@ -53,6 +53,10 @@ Miguel Aaron Torres Adame.
 
 Manuel Villarreal.
 
+***Learning causal structures via reinforcement learning.***
+
+Christian Badillo.
+
 ### Friday, March 29th
 
 ***Discussion on collaboration opportunities: Identifying potential joint projects and establishing next steps for collaboration. Planning for future interactions and exchange of resources to foster ongoing collaboration.***
