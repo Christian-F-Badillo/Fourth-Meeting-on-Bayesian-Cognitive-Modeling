@@ -13,6 +13,9 @@ title: "Meet the Labs"
 
 <p3> <i> Cognitive Bayesian Modeling, Game Theory, Planning, Causality, Computational Psychiatry, Adaptative Behavior, Reinforcement Learning, and Intertemporal Choice </i> </p3> </left>
 
+<p2><b>Website: </b>
+[Lab 25](https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/) </p2>
+
 ## Michael Lee's Lab at the UC Irvine.
 
 ![Michael Lee's Lab](img/Michael_lab.jpg)
@@ -22,3 +25,6 @@ Their research encompasses the development, evaluation, and application of model
 <p2><left><b> Research Topics:</p2></left></b>
 
 <p3> <i>  Modeling human decision making, Collective cognition and the wisdom of the crowd, Modeling memory with clinical applications, Bayesian statistical methods </i> </p3> </left>
+
+<p2><b>Website: </b>
+[Michael Lee's Lab](https://faculty.sites.uci.edu/mdlee/) </p2>

@@ -53,6 +53,10 @@ Miguel Aaron Torres Adame, UNAM.
 
 Manuel Villarreal, UC Irvine.
 
+***Bandit tasks in dynamic environments with context-dependent consequences.***
+
+Xóchilt Cárdenas, UNAM.
+
 ***Learning causal structures via reinforcement learning.***
 
 Christian Badillo, UNAM.
