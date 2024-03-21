@@ -31,7 +31,7 @@ Alicia Muñiz Jiménez, UNAM.
 
 ***Graphical Models for Causal Inference.***
 
-Alexander Etz, UC Irvine.
+Alexander Etz, University of Texas.
 
 ***Learning and intertemporal choice of volatile rewards.***
 
