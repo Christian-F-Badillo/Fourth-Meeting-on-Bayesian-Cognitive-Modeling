@@ -37,6 +37,10 @@ Alexander Etz, University of Texas.
 
 Israel Varona García, UNAM.
 
+***The effect of a meditation practice (Isha Kriya) on the informational preferences and associated electrocortical parameters of university students in Mexico.***
+
+Rodrigo Alvarez Hernandez, UNAM.
+
 ### Wednesday, March 27th
 
 ***An EZ Bayesian Hierarchical Drift Diffusion Model for Response Time and Accuracy.***
